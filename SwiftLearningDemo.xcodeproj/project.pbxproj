@@ -27,6 +27,8 @@
 		E184486E2A5BE486007F33C9 /* AppIconManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E184486D2A5BE486007F33C9 /* AppIconManager.swift */; };
 		E18938E92A8DB46D00CBF66F /* FirstView.m in Sources */ = {isa = PBXBuildFile; fileRef = E18938E82A8DB46D00CBF66F /* FirstView.m */; };
 		E18938EC2A8DB47900CBF66F /* SecView.m in Sources */ = {isa = PBXBuildFile; fileRef = E18938EB2A8DB47900CBF66F /* SecView.m */; };
+		E18938EE2A8E1C4D00CBF66F /* YearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18938ED2A8E1C4D00CBF66F /* YearButton.swift */; };
+		E18938F02A8E225500CBF66F /* UIView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18938EF2A8E225500CBF66F /* UIView+.swift */; };
 		E18F45752A613BFA00FBB10F /* KeepAliveThread.m in Sources */ = {isa = PBXBuildFile; fileRef = E18F45742A613BFA00FBB10F /* KeepAliveThread.m */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +61,8 @@
 		E18938E82A8DB46D00CBF66F /* FirstView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstView.m; sourceTree = "<group>"; };
 		E18938EA2A8DB47900CBF66F /* SecView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecView.h; sourceTree = "<group>"; };
 		E18938EB2A8DB47900CBF66F /* SecView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecView.m; sourceTree = "<group>"; };
+		E18938ED2A8E1C4D00CBF66F /* YearButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YearButton.swift; sourceTree = "<group>"; };
+		E18938EF2A8E225500CBF66F /* UIView+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+.swift"; sourceTree = "<group>"; };
 		E18F45722A613BFA00FBB10F /* SwiftLearningDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftLearningDemo-Bridging-Header.h"; sourceTree = "<group>"; };
 		E18F45732A613BFA00FBB10F /* KeepAliveThread.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeepAliveThread.h; sourceTree = "<group>"; };
 		E18F45742A613BFA00FBB10F /* KeepAliveThread.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeepAliveThread.m; sourceTree = "<group>"; };
@@ -90,6 +94,8 @@
 				E15202882A6E6A3C00BCC0B2 /* UIAppExt.swift */,
 				E152027F2A6E1D3A00BCC0B2 /* ContributionCalendar.swift */,
 				E15202862A6E640E00BCC0B2 /* YearPicker.swift */,
+				E18938ED2A8E1C4D00CBF66F /* YearButton.swift */,
+				E18938EF2A8E225500CBF66F /* UIView+.swift */,
 			);
 			path = ContributionCalendar;
 			sourceTree = "<group>";
@@ -309,6 +315,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E18938EE2A8E1C4D00CBF66F /* YearButton.swift in Sources */,
 				E1119A992A8610AC0014C20B /* GCD.m in Sources */,
 				E14AA3CE2A6666DF0010A7EB /* Cat.m in Sources */,
 				E15202892A6E6A3C00BCC0B2 /* UIAppExt.swift in Sources */,
@@ -323,6 +330,7 @@
 				E15202872A6E640E00BCC0B2 /* YearPicker.swift in Sources */,
 				E15202802A6E1D3A00BCC0B2 /* ContributionCalendar.swift in Sources */,
 				E184486E2A5BE486007F33C9 /* AppIconManager.swift in Sources */,
+				E18938F02A8E225500CBF66F /* UIView+.swift in Sources */,
 				E167652B2A52AFB60045E1B5 /* BaseRxSwift.swift in Sources */,
 				E167652F2A52B05A0045E1B5 /* Observable.swift in Sources */,
 				E16765182A52AF630045E1B5 /* SceneDelegate.swift in Sources */,

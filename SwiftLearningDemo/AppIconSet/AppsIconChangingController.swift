@@ -110,6 +110,9 @@ class  AppsIconChangingController: UIViewController {
 //        view.addSubview(cal)
         
         
+        let btn = YearButton(frame: .init(x: (view.frame.width - 100) * 0.5, y: 100, width: 100, height: 44))
+        view.addSubview(btn)
+        
 //        let fView = FirstView(frame: view.bounds)
 //        view.addSubview(fView)
 //        fView.frame = view.bounds
@@ -117,9 +120,9 @@ class  AppsIconChangingController: UIViewController {
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
-            YearPicker.showup()
-        }
+//        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+//            YearPicker.showup()
+//        }
     }
     
 //    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
