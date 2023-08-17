@@ -111,6 +111,7 @@ class  AppsIconChangingController: UIViewController {
         
         
         let btn = YearButton(frame: .init(x: (view.frame.width - 100) * 0.5, y: 100, width: 100, height: 44))
+        btn.setup(title: "2023")
         view.addSubview(btn)
         
 //        let fView = FirstView(frame: view.bounds)

@@ -18,7 +18,7 @@ class YearButton: UIControl {
     
     private lazy var backIcon: UIImageView = {
         let imgView = UIImageView()
-        imgView.image = UIImage(named: "")
+        imgView.image = UIImage(named: "Return")
         imgView.isHidden = true
         return imgView
     }()
@@ -35,8 +35,6 @@ class YearButton: UIControl {
         super.init(frame: frame)
         addSubview(titleLabel)
         addSubview(backIcon)
-        titleLabel.text = "2023"
-        backIcon.image = UIImage(named: "Return")
         
         titleLabel.snp.makeConstraints { make in
             make.centerX.equalToSuperview()
@@ -57,6 +55,15 @@ class YearButton: UIControl {
     
     required init?(coder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
+    }
+    
+    func setup(title: String) {
+        UIView.transition(with: titleLabel,
+                      duration: 0.25,
+                       options: .transitionCrossDissolve,
+                    animations: { [weak self] in
+                        self?.titleLabel.text = title
+                 }, completion: nil)
     }
     
     func animate() {
@@ -98,6 +105,12 @@ class YearButton: UIControl {
     
     @objc func didTap() {
         backToCurrent = !backToCurrent
+        
+        if let txt = titleLabel.text, txt == "2023" {
+            setup(title: "4062")
+        } else {
+            setup(title: "2023")
+        }
     }
 }
  
