@@ -112,6 +112,25 @@ class  AppsIconChangingController: UIViewController {
         
         let btn = YearButton(frame: .init(x: (view.frame.width - 100) * 0.5, y: 100, width: 100, height: 44))
         btn.setup(title: "2023")
+        btn.tapHandler = { obj in
+            
+            if obj.backToCurrent == true {
+                YearPicker.showup { selectedYear in
+                    obj.backToCurrent = false
+                    obj.setup(title: "\(selectedYear)")
+                    YearPicker.dismiss()
+                }
+            } else {
+                obj.backToCurrent = true
+                obj.setup(title: "2023")
+            }
+            
+//            if let txt = obj.title, txt == "2023" {
+//                obj.setup(title: "4062")
+//            } else {
+//                obj.setup(title: "2023")
+//            }
+        }
         view.addSubview(btn)
         
 //        let fView = FirstView(frame: view.bounds)

@@ -10,6 +10,15 @@ import Foundation
 extension UIView {
     private static let kRotationAnimationKey = "kRotationAnimationKey"
     private static let kScaleAnimationKey = "kScaleAnimationKey"
+    
+    func popup() {
+        alpha = 0
+        transform = CGAffineTransformMakeScale(0.3, 3)
+        UIView.animate(withDuration: 0.15, delay: 0, usingSpringWithDamping: 1.0, initialSpringVelocity: 0.3) {
+            self.alpha = 1
+            self.transform = .identity
+        }
+    }
 
     func rotate(duration: Double = 1) {
         if layer.animation(forKey: UIView.kRotationAnimationKey) == nil {

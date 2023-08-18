@@ -23,6 +23,18 @@ class YearButton: UIControl {
         return imgView
     }()
     
+    var title: String? {
+        get {
+            return titleLabel.text
+        }
+        set {
+            self.setup(title: newValue)
+        }
+    }
+    
+    // MAKR:
+    // true: Title Only
+    // false: title & icon
     var backToCurrent: Bool = true {
         didSet {
             self.animate()
@@ -30,6 +42,7 @@ class YearButton: UIControl {
     }
     var defaultSize: CGSize = CGSize(width: 100, height: 44)
     var biggerSize: CGSize = CGSize(width: 100, height: 64)
+    var tapHandler: ((YearButton)->(Void))?
     
     override init(frame: CGRect) {
         super.init(frame: frame)
@@ -57,7 +70,7 @@ class YearButton: UIControl {
         fatalError("init(coder:) has not been implemented")
     }
     
-    func setup(title: String) {
+    func setup(title: String?) {
         UIView.transition(with: titleLabel,
                       duration: 0.25,
                        options: .transitionCrossDissolve,
@@ -104,13 +117,7 @@ class YearButton: UIControl {
     }
     
     @objc func didTap() {
-        backToCurrent = !backToCurrent
-        
-        if let txt = titleLabel.text, txt == "2023" {
-            setup(title: "4062")
-        } else {
-            setup(title: "2023")
-        }
+        tapHandler?(self)
     }
 }
  
