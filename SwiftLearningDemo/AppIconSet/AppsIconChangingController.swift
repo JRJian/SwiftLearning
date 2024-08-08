@@ -133,6 +133,7 @@ class  AppsIconChangingController: UIViewController {
         }
         view.addSubview(btn)
         
+        memoryTest()
 //        let fView = FirstView(frame: view.bounds)
 //        view.addSubview(fView)
 //        fView.frame = view.bounds
@@ -145,11 +146,8 @@ class  AppsIconChangingController: UIViewController {
 //        }
     }
     
-//    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
-//        print("AppsIconChangingController touchesBegan")
-//    }
-//
-//    override func touchesEnded(_ touches: Set<UITouch>, with event: UIEvent?) {
-//        print("AppsIconChangingController touchesEnded")
-//    }
+    func memoryTest() {
+        let m = Memory_Test()
+        m.crash()
+    }
 }

@@ -30,6 +30,7 @@
 		E18938EE2A8E1C4D00CBF66F /* YearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18938ED2A8E1C4D00CBF66F /* YearButton.swift */; };
 		E18938F02A8E225500CBF66F /* UIView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18938EF2A8E225500CBF66F /* UIView+.swift */; };
 		E18F45752A613BFA00FBB10F /* KeepAliveThread.m in Sources */ = {isa = PBXBuildFile; fileRef = E18F45742A613BFA00FBB10F /* KeepAliveThread.m */; };
+		E1A475E02AA0797800B0FA6B /* MemoryTest.m in Sources */ = {isa = PBXBuildFile; fileRef = E1A475DF2AA0797800B0FA6B /* MemoryTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,8 @@
 		E18F45722A613BFA00FBB10F /* SwiftLearningDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftLearningDemo-Bridging-Header.h"; sourceTree = "<group>"; };
 		E18F45732A613BFA00FBB10F /* KeepAliveThread.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeepAliveThread.h; sourceTree = "<group>"; };
 		E18F45742A613BFA00FBB10F /* KeepAliveThread.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeepAliveThread.m; sourceTree = "<group>"; };
+		E1A475DE2AA0797800B0FA6B /* MemoryTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Memory\bTest.h"; sourceTree = "<group>"; };
+		E1A475DF2AA0797800B0FA6B /* MemoryTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Memory\bTest.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +174,8 @@
 				E18938E82A8DB46D00CBF66F /* FirstView.m */,
 				E18938EA2A8DB47900CBF66F /* SecView.h */,
 				E18938EB2A8DB47900CBF66F /* SecView.m */,
+				E1A475DE2AA0797800B0FA6B /* MemoryTest.h */,
+				E1A475DF2AA0797800B0FA6B /* MemoryTest.m */,
 			);
 			path = Runloop;
 			sourceTree = "<group>";
@@ -328,6 +333,7 @@
 				E10244392A5E95FC0030FC8B /* Algorithm.swift in Sources */,
 				E18938E92A8DB46D00CBF66F /* FirstView.m in Sources */,
 				E15202872A6E640E00BCC0B2 /* YearPicker.swift in Sources */,
+				E1A475E02AA0797800B0FA6B /* MemoryTest.m in Sources */,
 				E15202802A6E1D3A00BCC0B2 /* ContributionCalendar.swift in Sources */,
 				E184486E2A5BE486007F33C9 /* AppIconManager.swift in Sources */,
 				E18938F02A8E225500CBF66F /* UIView+.swift in Sources */,

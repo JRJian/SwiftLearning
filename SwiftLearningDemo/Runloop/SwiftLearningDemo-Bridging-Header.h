@@ -6,3 +6,4 @@
 #import "Cat.h"
 #import "GCD.h"
 #import "FirstView.h"
+#import "MemoryTest.h"
