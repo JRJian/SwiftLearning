@@ -1,9 +1,84 @@
 {
-    "lifetime": 25,
-    "monthly": 0,
-    "yearly": 0,
-    "freeSeconds": 420,
-    "lifetime_des": "Lifetime(Newcomer Exclusive)",
-    "yearly_des": "12 months",
-    "monthly_des": "1 month"
+	"lifetime": 25,
+	"monthly": 0,
+	"yearly": 0,
+	"freeSeconds": 420,
+	"lifetime_des": "Lifetime(Newcomer Exclusive)",
+	"yearly_des": "12 months",
+	"monthly_des": "1 month",
+	"en": {
+		"lifetime_des": "Lifetime(Newcomer Exclusive)",
+		"yearly_des": "12 months",
+		"monthly_des": "1 month",
+	},
+	"zh": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"zh-HK": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"ja": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"ar": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"de": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"es": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"fr": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"hi": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"id": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"it": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"pt": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"ru": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"th": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	},
+	"tr": {
+		"lifetime_des": "",
+		"yearly_des": "",
+		"monthly_des": "",
+	}
 }
