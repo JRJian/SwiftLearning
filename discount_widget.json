@@ -1,6 +1,9 @@
 {    
 	"lifetime": 50,
-    "monthly": 50,
-    "yearly": 50,
-    "discount_des": "Lifetime(Newcomer Exclusive)"
+    "monthly": 0,
+    "yearly": 35,
+    "discount_des": {
+    	"en": "Lifetime(Newcomer Exclusive)",
+    	"cn": "活动"
+    }
 }
