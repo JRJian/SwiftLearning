@@ -1,8 +1,8 @@
 {    
-	"lifetime": 50,
+	"lifetime": 0,
     "monthly": 0,
-    "yearly": 35,
-    "hasEvent": 1,
+    "yearly": 0,
+    "hasEvent": 0,
     "discount_des": {
     	"en": "December 20th - December 30th\nChristmas activities with multiple discounts",
     	"cn": "12月20号 -  12月30号\n圣诞活动，多项优惠活动"
