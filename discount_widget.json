@@ -1,10 +1,11 @@
 {    
-	"lifetime": 50,
+	"lifetime": 0,
     "monthly": 0,
-    "yearly": 35,
-    "hasEvent": 1,
+    "yearly": 0,
+    "hasEvent": 0,
     "discount_des": {
     	"en": "December 20th - December 30th\nChristmas activities with multiple discounts",
     	"cn": "12月20号 -  12月30号\n圣诞活动，多项优惠活动"
-    }
+    },
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
 }
