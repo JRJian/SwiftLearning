@@ -4,5 +4,7 @@
     "freeSeconds": 420,
     "lifetime_des": "Lifetime(Newcomer Exclusive)",
     "yearly_des": "12 months",
-    "monthly_des": "1 month"
+    "monthly_des": "1 month",
+    "launchAlertEnabled": 0,
+    "launchAlertMessage": "升级通告！"
 }
