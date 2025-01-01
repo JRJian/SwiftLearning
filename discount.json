@@ -9,6 +9,5 @@
     "launchAlertEnabled": 1,
     "launchAlertMessage": "Software Maintenance Notice\nTubePod will undergo maintenance for 2 days due to YouTube API changes. The App will be unavailable during this time.\nWe apologize for any inconvenience.\nPlease update to App version 2.3 from the App Store after maintenance.",
     "launchAlertMaxCode": 66,
-    "goodVersionMinCode": 68,
-    "gggg": 0
+    "goodVersionMinCode": 68
 }
