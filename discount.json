@@ -6,7 +6,7 @@
     "lifetime_des": "Lifetime(Newcomer Exclusive)",
     "yearly_des": "12 months",
     "monthly_des": "1 month",
-    "launchAlertEnabled": 1,
+    "launchAlertEnabled": 0,
     "launchAlertMessage": "The European server is experiencing a temporary issue, affecting the normal functionality for our European users. We are urgently working on a fix. We sincerely apologize for any inconvenience this may have caused.",
     "launchAlertMaxCode": 100,
     "goodVersionMinCode": 78,
