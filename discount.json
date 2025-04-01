@@ -10,7 +10,7 @@
     "launchAlertMessage": "The European server is experiencing a temporary issue, affecting the normal functionality for our European users. We are urgently working on a fix. We sincerely apologize for any inconvenience this may have caused.",
     "launchAlertMaxCode": 100,
     "goodVersionMinCode": 100,
-    "freeProMinCode": 100,
+    "freeProMinCode": 70,
     "freeProExpiredMonth": 3,
     "ua": {
         "ipad": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"
