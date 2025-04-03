@@ -12,8 +12,14 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "不感兴趣"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繁体"
           }
         }
       }
@@ -299,7 +305,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "只需在社交平台分享一条帖子，即可免费获得 3 个月至终身不等的 TubePod Premium！"
           }
         }
@@ -350,7 +356,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "事件活动页标题"
           }
         }
@@ -480,8 +486,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Abbrechen"
+            "state" : "translated",
+            "value" : "德国"
           }
         },
         "en" : {
@@ -492,56 +498,56 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Cancelar"
+            "state" : "translated",
+            "value" : "西语"
           }
         },
         "es-419" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Cancelar"
+            "state" : "translated",
+            "value" : "西语拉丁美洲"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Annuler"
+            "state" : "translated",
+            "value" : "法语"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "キャンセル"
+            "state" : "translated",
+            "value" : "日本"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "취소"
+            "state" : "translated",
+            "value" : "韩语"
           }
         },
         "ms" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Batal"
+            "state" : "translated",
+            "value" : "马来语"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Cancelar"
+            "state" : "translated",
+            "value" : "葡萄牙"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Cancelar"
+            "state" : "translated",
+            "value" : "葡萄牙B"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Cancelar"
+            "state" : "translated",
+            "value" : "葡萄牙P"
           }
         },
         "zh-Hans" : {
@@ -552,8 +558,8 @@
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "取消"
+            "state" : "translated",
+            "value" : "繁体"
           }
         }
       }
