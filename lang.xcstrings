@@ -36,7 +36,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "事件活动按钮标题"
+            "value" : "分享帖子（3 个月 - 终身）"
           }
         }
       }
@@ -53,7 +53,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "事件活动消息内容"
+            "value" : "分享一条关于 TubePod 的帖子，即可免费获得终身或 3 个月以上不等的 Premium 会员！\n\n或者，邀请一位朋友即可获得 1 个月免费使用 —— 只需将消息发送给好友或群聊，当他们安装并打开 TubePod 后，你的奖励将自动激活！"
           }
         }
       }
@@ -164,7 +164,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "事件活动弹窗标题"
+            "value" : "🎁 免费领取 TubePod Premium！"
           }
         },
         "zh-Hant" : {
@@ -238,7 +238,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "页脚"
+            "value" : "您可以稍后通过 TubePod 设置页访问此页面。"
           }
         }
       }
@@ -255,7 +255,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "接收邮箱"
+            "value" : "接收兑换码的邮箱"
           }
         }
       }
@@ -272,7 +272,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "兑换码"
+            "value" : "输入兑换码"
           }
         }
       }
@@ -357,7 +357,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "事件活动页标题"
+            "value" : "免费获取终身Premium"
           }
         }
       }
@@ -374,7 +374,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "活动兑换规则"
+            "value" : "只需在社交平台分享一条帖子，即可免费获得 3 个月至终身不等的 TubePod Premium！"
           }
         }
       }
@@ -391,7 +391,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "活动兑换标题"
+            "value" : "活动兑换"
           }
         }
       }
@@ -553,7 +553,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "事件标题"
+            "value" : "免费获取高级会员！"
           }
         },
         "zh-Hant" : {
