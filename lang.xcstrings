@@ -4,10 +4,70 @@
     "event_alert_button_cancel" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht interessiert"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cancel"
+            "value" : "Not interested"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No interesado"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No interesado"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non intéressé"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "興味なし"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "관심 없음"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidak berminat"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não interessado"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não interessado"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não interessado"
           }
         },
         "zh-Hans" : {
@@ -19,7 +79,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "繁体"
+            "value" : "不感興趣"
           }
         }
       }
@@ -27,10 +87,70 @@
     "event_alert_button_title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beitrag teilen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Event alert button title"
+            "value" : "Share post"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartir publicación"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartir publicación"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partager la publication"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投稿をシェアする"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "게시물 공유하기"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kongsi siaran"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartilhar publicação"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartilhar publicação"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartilhar publicação"
           }
         },
         "zh-Hans" : {
@@ -38,22 +158,94 @@
             "state" : "translated",
             "value" : "分享帖子"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分享貼文"
+          }
         }
       }
     },
     "event_alert_message" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teile einfach einen TubePod-Beitrag in sozialen Medien, um ein kostenloses TubePod Premium zu erhalten!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Event alert message"
+            "value" : "Just share a TubePod post on social media to get a free TubePod Premium!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Simplemente comparte una publicación de TubePod en redes sociales para obtener TubePod Premium gratis!"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Simplemente comparte una publicación de TubePod en redes sociales para obtener TubePod Premium gratis!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partagez simplement une publication TubePod sur les réseaux sociaux pour obtenir TubePod Premium gratuitement !"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TubePodの投稿をSNSでシェアするだけで、TubePod Premiumを無料でゲット！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소셜 미디어에서 TubePod 게시물을 공유하기만 하면 TubePod Premium을 무료로 받을 수 있습니다!"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kongsi siaran TubePod di media sosial untuk mendapatkan TubePod Premium percuma!"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartilhe simplesmente uma publicação do TubePod nas redes sociais para obter o TubePod Premium grátis!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartilhe simplesmente uma publicação do TubePod nas redes sociais para obter o TubePod Premium grátis!"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartilhe simplesmente uma publicação do TubePod nas redes sociais para obter o TubePod Premium grátis!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\n只需在社交平台分享一条TubePod的帖子，即可免费领取终身或3 个月及以上不等的TubePod 会员！"
+            "value" : "\n只需在社交平台分享一条TubePod的帖子，即可免费领取TubePod 会员！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "只需在社交媒體上分享TubePod貼文，即可免費獲得TubePod Premium！"
           }
         }
       }
@@ -61,10 +253,70 @@
     "event_alert_redeem_success" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einlösung erfolgreich"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redemption successful."
+            "value" : "Redemption Successful"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canje Exitoso"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canje Exitoso"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échange réussi"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交換成功"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "교환 성공"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penebusan berjaya"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgate bem-sucedido"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgate bem-sucedido"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgate bem-sucedido"
           }
         },
         "zh-Hans" : {
@@ -72,19 +324,91 @@
             "state" : "translated",
             "value" : "兑换成功"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兌換成功"
+          }
         }
       }
     },
     "event_alert_submit_success" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übermittlung erfolgreich"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Submission successful."
+            "value" : "Submission Successful"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envío Exitoso"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envío Exitoso"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envoi réussi"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "送信成功"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전송 성공"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penghantaran berjaya"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envio bem-sucedido"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envio bem-sucedido"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envio bem-sucedido"
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提交成功"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "提交成功"
@@ -97,68 +421,68 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Bewertung abgeben"
+            "state" : "translated",
+            "value" : "🎁 Erhalte TubePod Premium kostenlos!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Event alert title"
+            "value" : "🎁 Get TubePod Premium for Free!"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Ir a Reseñar"
+            "state" : "translated",
+            "value" : "🎁 ¡Obtén TubePod Premium Gratis!"
           }
         },
         "es-419" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Ir a Reseñar"
+            "state" : "translated",
+            "value" : "🎁 ¡Obtén TubePod Premium Gratis!"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Donner un avis"
+            "state" : "translated",
+            "value" : "🎁 Obtenez TubePod Premium gratuitement !"
           }
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "レビューする"
+            "state" : "translated",
+            "value" : "🎁 TubePod Premiumを無料で入手しよう！"
           }
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "리뷰하러 가기"
+            "state" : "translated",
+            "value" : "🎁 TubePod Premium 무료로 받기!"
           }
         },
         "ms" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Pergi Semak"
+            "state" : "translated",
+            "value" : "🎁 Dapatkan TubePod Premium Percuma!"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Avaliar"
+            "state" : "translated",
+            "value" : "🎁 Obtenha o TubePod Premium Grátis!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Avaliar"
+            "state" : "translated",
+            "value" : "🎁 Obtenha o TubePod Premium Grátis!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Fazer Revisão"
+            "state" : "translated",
+            "value" : "🎁 Obtenha o TubePod Premium Grátis!"
           }
         },
         "zh-Hans" : {
@@ -169,8 +493,8 @@
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "去評論"
+            "state" : "translated",
+            "value" : "🎁 免費獲取TubePod Premium！"
           }
         }
       }
@@ -178,10 +502,70 @@
     "event_alert_wrong_content" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungültiger Inhalt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wrong Content"
+            "value" : "Invalid Content"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contenido Inválido"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contenido Inválido"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contenu invalide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効なコンテンツ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "유효하지 않은 콘텐츠"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kandungan tidak sah"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conteúdo inválido"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conteúdo inválido"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conteúdo inválido"
           }
         },
         "zh-Hans" : {
@@ -189,16 +573,82 @@
             "state" : "translated",
             "value" : "错误的内容"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "內容無效"
+          }
         }
       }
     },
     "event_alert_wrong_email" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungültige E-Mail"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wrong Email"
+            "value" : "Invalid Email"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo Electrónico Inválido"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo Electrónico Inválido"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email invalide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効なメールアドレス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "유효하지 않은 이메일"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mel tidak sah"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail inválido"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail inválido"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail inválido"
           }
         },
         "zh-Hans" : {
@@ -206,16 +656,82 @@
             "state" : "translated",
             "value" : "错误的邮件"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電子郵件無效"
+          }
         }
       }
     },
     "event_alert_wrong_url" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungültige URL"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wrong URL address"
+            "value" : "Invalid URL"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL Inválida"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL Inválida"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL invalide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効なURL"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "유효하지 않은 URL"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL tidak sah"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL inválida"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL inválida"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL inválida"
           }
         },
         "zh-Hans" : {
@@ -223,16 +739,82 @@
             "state" : "translated",
             "value" : "错误的地址"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL無效"
+          }
         }
       }
     },
     "event_detail_footer" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falls du deinen Code nach 10 Tagen nicht erhalten hast, kontaktiere uns bitte per E-Mail. Wir bitten um dein Verständnis, da gelegentlich Übersehungen vorkommen können."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Footer"
+            "value" : "If you haven't received your code after 10 days, please email us. We appreciate your understanding as occasional oversights may occur."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si no has recibido tu código después de 10 días, envíanos un correo electrónico. Agradecemos tu comprensión ya que pueden ocurrir descuidos ocasionales."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si no has recibido tu código después de 10 días, envíanos un correo electrónico. Agradecemos tu comprensión ya que pueden ocurrir descuidos ocasionales."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si vous n'avez pas reçu votre code après 10 jours, envoyez-nous un email. Nous vous remercions de votre compréhension car des oublis occasionnels peuvent se produire."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10日経ってもコードが届かない場合は、メールでお問い合わせください。時々見落としが発生する可能性がありますので、ご理解いただければ幸いです。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10일 후에도 코드를 받지 못했다면 이메일로 문의해 주세요. 간혹 실수가 발생할 수 있으니 양해 부탁드립니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jika anda tidak menerima kod selepas 10 hari, sila hantar e-mel kepada kami. Kami menghargai pemahaman anda kerana kadangkala terdapat kesilapan yang berlaku."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você não receber seu código após 10 dias, envie-nos um e-mail. Agradecemos sua compreensão, pois ocasionalmente podem ocorrer esquecimentos."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você não receber seu código após 10 dias, envie-nos um e-mail. Agradecemos sua compreensão, pois ocasionalmente podem ocorrer esquecimentos."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você não receber seu código após 10 dias, envie-nos um e-mail. Agradecemos sua compreensão, pois ocasionalmente podem ocorrer esquecimentos."
           }
         },
         "zh-Hans" : {
@@ -240,16 +822,82 @@
             "state" : "translated",
             "value" : "如果超过10天您还没有收到兑换码，可给我们发送邮件咨询，工作难免有疏漏，希望理解。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果10天後您仍未收到代碼，請發送電子郵件給我們。感謝您的理解，因為偶爾可能會發生疏忽。"
+          }
         }
       }
     },
     "event_detail_placeholder_email" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-Mail zum Empfang des Einlösecodes"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Email for receiving"
+            "value" : "Email to receive redemption code"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo electrónico para recibir el código de canje"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo electrónico para recibir el código de canje"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email pour recevoir le code d'échange"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交換コードを受け取るメールアドレス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "교환 코드를 받을 이메일"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mel untuk menerima kod penebusan"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail para receber o código de resgate"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail para receber o código de resgate"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail para receber o código de resgate"
           }
         },
         "zh-Hans" : {
@@ -257,16 +905,82 @@
             "state" : "translated",
             "value" : "接收兑换码的邮箱"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接收兌換碼的電子郵件"
+          }
         }
       }
     },
     "event_detail_placeholder_redeem" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einlösecode eingeben"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enter premium code"
+            "value" : "Enter redemption code"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introduce el código de canje"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introduce el código de canje"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrez le code d'échange"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交換コードを入力"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "교환 코드 입력"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masukkan kod penebusan"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insira o código de resgate"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insira o código de resgate"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insira o código de resgate"
           }
         },
         "zh-Hans" : {
@@ -274,16 +988,82 @@
             "state" : "translated",
             "value" : "输入兑换码"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "輸入兌換碼"
+          }
         }
       }
     },
     "event_detail_placeholder_submit" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beitrags- / Profillink"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enter post / profile link"
+            "value" : "Post / Profile link"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlace de publicación / perfil"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlace de publicación / perfil"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lien de publication / profil"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "投稿/プロフィールのリンク"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "게시물/프로필 링크"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pautan siaran / profil"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link da publicação / perfil"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link da publicação / perfil"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link da publicação / perfil"
           }
         },
         "zh-Hans" : {
@@ -291,22 +1071,94 @@
             "state" : "translated",
             "value" : "帖子 / 个人主页链接"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貼文/個人資料連結"
+          }
         }
       }
     },
     "event_detail_rule" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teile einen Beitrag auf Social-Media-Plattformen. Nach unserer Genehmigung erhältst du in etwa einer Woche ein kostenloses TubePod Premium zwischen 3 Monaten und lebenslang!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Get TubePod Premium for free — from 3 months to lifetime — simply by sharing a post on a social network!"
+            "value" : "Share a post on social media platforms. After we approve it, in about a week, you can get a free TubePod Premium ranging from 3 months to lifetime!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparte una publicación en plataformas de redes sociales. Después de que la aprobemos, en aproximadamente una semana, ¡puedes obtener TubePod Premium gratis con duración desde 3 meses hasta de por vida!"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparte una publicación en plataformas de redes sociales. Después de que la aprobemos, en aproximadamente una semana, ¡puedes obtener TubePod Premium gratis con duración desde 3 meses hasta de por vida!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partagez une publication sur les plateformes de réseaux sociaux. Après notre approbation, dans environ une semaine, vous pourrez obtenir TubePod Premium gratuitement pour une durée de 3 mois à vie !"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SNSプラットフォームで投稿をシェアしてください。承認後、約1週間で3ヶ月から永久までのTubePod Premiumを無料で入手できます！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소셜 미디어 플랫폼에서 게시물을 공유하세요. 승인 후 약 1주일 내에 3개월에서 평생까지 무료 TubePod Premium을 받을 수 있습니다!"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kongsi siaran di platform media sosial. Selepas kami meluluskannya, dalam masa seminggu, anda boleh mendapatkan TubePod Premium percuma dengan tempoh dari 3 bulan hingga seumur hidup!"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartilhe uma publicação nas plataformas de redes sociais. Após a nossa aprovação, em aproximadamente uma semana, você poderá obter o TubePod Premium grátis com duração de 3 meses até vitalício!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartilhe uma publicação nas plataformas de redes sociais. Após a nossa aprovação, em aproximadamente uma semana, você poderá obter o TubePod Premium grátis com duração de 3 meses até vitalício!"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartilhe uma publicação nas plataformas de redes sociais. Após a nossa aprovação, em aproximadamente uma semana, você poderá obter o TubePod Premium grátis com duração de 3 meses até vitalício!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在社交平台分享一条帖子，我们审核通过后，一周左右，即可免费领取3 个月至终身不等的 TubePod 会员！"
+            "value" : "在社交平台分享一条帖子，我们审核通过后，一周左右，即可免费领取3 个月至终身不等的 TubePod会员！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在社交媒體平台上分享貼文。在我們批准後，大約一週內，您可以免費獲得TubePod Premium，期限從3個月到終身不等！"
           }
         }
       }
@@ -314,16 +1166,82 @@
     "event_detail_steps_list" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veröffentliche ein kurzes Video oder Bild über TubePod auf deiner bevorzugten internationalen Social-Media-Plattform (wie TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nVerwende diesen Text: \"Lade TubePod aus dem App Store herunter, um deine Lieblingsmusik kostenlos zu hören und YouTube ohne Werbung anzusehen!\"\n\nFüge einen App Store-Screenshot oder zusätzliche Inhalte hinzu.\n\nNach erfolgreicher Veröffentlichung kopiere den Beitrags- oder deinen Profillink.\n\nGib deine Teilnahmeinformationen unten ein und sende sie ab.\n\nNach Genehmigung deines Beitrags senden wir dir innerhalb einer Woche einen Premium-Einlösecode per E-Mail."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Create a short video or image post about TubePod on your favorite social network, like TikTok, Instagram, Facebook, YouTube, Line, rednote, or others.\n\nMention: “Get TubePod on the App Store to listen to your favorite music for free, with unlimited skips!”\n\nYou can include an App Store screenshot.\n\nPublish the post and copy its link or a link to your profile.\n\nEnter the link below and submit it.\n\nWait until we check your post and send you a free Premium code.\n\nEnter the code below and redeem it.\n\nEnjoy TubePod Premium for free!"
+            "value" : "Post a short video or image about TubePod on your preferred international social media platform (such as TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nInclude this text: \"Download TubePod from the App Store to listen to your favorite music for free and watch YouTube without ads!\"\n\nAttach an App Store screenshot or additional content.\n\nAfter posting successfully, copy the post or your profile link.\n\nEnter your participation information below and submit.\n\nAfter your post is approved, we'll send a Premium redemption code to your email within about a week."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publica un video corto o imagen sobre TubePod en tu plataforma de redes sociales internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nIncluye este texto: \"¡Descarga TubePod desde la App Store para escuchar tu música favorita gratis y ver YouTube sin anuncios!\"\n\nAdjunta una captura de pantalla de la App Store o contenido adicional.\n\nDespués de publicar exitosamente, copia la publicación o el enlace de tu perfil.\n\nIngresa tu información de participación a continuación y envíala.\n\nDespués de que tu publicación sea aprobada, te enviaremos un código de canje de Premium a tu correo electrónico en aproximadamente una semana."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publica un video corto o imagen sobre TubePod en tu plataforma de redes sociales internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nIncluye este texto: \"¡Descarga TubePod desde la App Store para escuchar tu música favorita gratis y ver YouTube sin anuncios!\"\n\nAdjunta una captura de pantalla de la App Store o contenido adicional.\n\nDespués de publicar exitosamente, copia la publicación o el enlace de tu perfil.\n\nIngresa tu información de participación a continuación y envíala.\n\nDespués de que tu publicación sea aprobada, te enviaremos un código de canje de Premium a tu correo electrónico en aproximadamente una semana."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publiez une courte vidéo ou une image sur TubePod sur votre plateforme de réseaux sociaux internationale préférée (comme TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nIncluez ce texte : \"Téléchargez TubePod depuis l'App Store pour écouter votre musique préférée gratuitement et regarder YouTube sans publicités !\"\n\nJoignez une capture d'écran de l'App Store ou du contenu supplémentaire.\n\nAprès avoir publié avec succès, copiez la publication ou le lien de votre profil.\n\nEntrez vos informations de participation ci-dessous et soumettez-les.\n\nAprès l'approbation de votre publication, nous vous enverrons un code d'échange Premium à votre email dans environ une semaine."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お好きな国際SNSプラットフォーム（TikTok、Instagram、Facebook、YouTube、X、Thread、Bluesky、Lineなど）でTubePodに関する短い動画や画像を投稿してください。\n\nこのテキストを含めてください：「App StoreからTubePodをダウンロードして、お気に入りの音楽を無料で聴いたり、広告なしでYouTubeを視聴しよう！」\n\nApp Storeのスクリーンショットや追加コンテンツを添付してください。\n\n投稿に成功したら、投稿またはプロフィールのリンクをコピーしてください。\n\n以下に参加情報を入力して送信してください。\n\n投稿が承認されると、約1週間でPremiumの交換コードがメールで送信されます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선호하는 국제 소셜 미디어 플랫폼(TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line 등)에서 TubePod에 관한 짧은 동영상이나 이미지를 게시하세요.\n\n다음 텍스트를 포함하세요: \"App Store에서 TubePod를 다운로드하여 좋아하는 음악을 무료로 듣고 광고 없이 YouTube를 시청하세요!\"\n\nApp Store 스크린샷이나 추가 콘텐츠를 첨부하세요.\n\n성공적으로 게시한 후, 게시물이나 프로필 링크를 복사하세요.\n\n아래에 참여 정보를 입력하고 제출하세요.\n\n게시물이 승인되면 약 1주일 내에 이메일로 Premium 교환 코드를 보내드립니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siarkan video pendek atau imej tentang TubePod di platform media sosial antarabangsa pilihan anda (seperti TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nSertakan teks ini: \"Muat turun TubePod dari App Store untuk mendengar muzik kegemaran anda secara percuma dan menonton YouTube tanpa iklan!\"\n\nLampirkan tangkapan skrin App Store atau kandungan tambahan.\n\nSelepas berjaya menyiarkan, salin siaran atau pautan profil anda.\n\nMasukkan maklumat penyertaan anda di bawah dan hantarkannya.\n\nSelepas siaran anda diluluskan, kami akan menghantar kod penebusan Premium ke e-mel anda dalam masa seminggu."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publique um vídeo curto ou imagem sobre o TubePod na sua plataforma de redes sociais internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nInclua este texto: \"Baixe o TubePod na App Store para ouvir sua música favorita gratuitamente e assistir ao YouTube sem anúncios!\"\n\nAnexe uma captura de tela da App Store ou conteúdo adicional.\n\nApós publicar com sucesso, copie a publicação ou o link do seu perfil.\n\nInsira suas informações de participação abaixo e envie-as.\n\nApós a aprovação da sua publicação, enviaremos um código de resgate Premium para seu e-mail em aproximadamente uma semana."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publique um vídeo curto ou imagem sobre o TubePod na sua plataforma de redes sociais internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nInclua este texto: \"Baixe o TubePod na App Store para ouvir sua música favorita gratuitamente e assistir ao YouTube sem anúncios!\"\n\nAnexe uma captura de tela da App Store ou conteúdo adicional.\n\nApós publicar com sucesso, copie a publicação ou o link do seu perfil.\n\nInsira suas informações de participação abaixo e envie-as.\n\nApós a aprovação da sua publicação, enviaremos um código de resgate Premium para seu e-mail em aproximadamente uma semana."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Publique um vídeo curto ou imagem sobre o TubePod na sua plataforma de redes sociais internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nInclua este texto: \"Baixe o TubePod na App Store para ouvir sua música favorita gratuitamente e assistir ao YouTube sem anúncios!\"\n\nAnexe uma captura de tela da App Store ou conteúdo adicional.\n\nApós publicar com sucesso, copie a publicação ou o link do seu perfil.\n\nInsira suas informações de participação abaixo e envie-as.\n\nApós a aprovação da sua publicação, enviaremos um código de resgate Premium para seu e-mail em aproximadamente uma semana."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在您常用的国际社交平台（如 TikTok、Instagram、Facebook、YouTube、X、Thread、Bluesky、Line）发布一条关于 TubePod的短视频或图片帖。\n\n文案中请提到：“在App Store下载 TubePod，免费听你喜欢的音乐，无广告看YouTube！”\n\n附上一张App Store截图或更多内容。\n\n发帖子成功后，复制帖子或您主页链接。\n\n在下方输入活动参与信息并提交。\n\n享受免费的 TubePod Premium之旅吧！"
+            "value" : "在您常用的国际社交平台（如 TikTok、Instagram、Facebook、YouTube、X、Thread、Bluesky、Line）发布一条关于 TubePod的短视频或图片帖。\n\n文案中请提到：“在App Store下载 TubePod，免费听你喜欢的音乐，无广告看YouTube！”\n\n附上一张App Store截图或更多内容。\n\n发布帖子成功后，复制帖子或您主页链接。\n\n在下方输入活动参与信息并提交。\n\n帖子审核通过后，一周左右我们会通过邮箱给您发送会员兑换码。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在您喜愛的國際社交媒體平台（如TikTok、Instagram、Facebook、YouTube、X、Thread、Bluesky、Line）上發布關於TubePod的短片或圖片。\n\n包含此文字：\"從App Store下載TubePod，免費聆聽您喜愛的音樂，無廣告觀看YouTube！\"\n\n附上App Store截圖或額外內容。\n\n成功發布後，複製您的貼文或個人資料連結。\n\n在下方輸入您的參與資訊並提交。\n\n在您的貼文獲得批准後，我們將在大約一週內將Premium兌換碼發送到您的電子郵件。"
           }
         }
       }
@@ -331,10 +1249,70 @@
     "event_detail_steps_title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schritte"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Steps"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pasos"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pasos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Étapes"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ステップ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "단계"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Langkah-langkah"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passos"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passos"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passos"
           }
         },
         "zh-Hans" : {
@@ -342,22 +1320,94 @@
             "state" : "translated",
             "value" : "步骤"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "步驟"
+          }
         }
       }
     },
     "event_detail_title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erhalte Premium kostenlos"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Free TubePod Premium"
+            "value" : "Get Free Premium"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtener Premium Gratis"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtener Premium Gratis"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtenir Premium gratuitement"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無料でPremiumを入手"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무료 Premium 받기"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dapatkan Premium Percuma"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obter Premium Grátis"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obter Premium Grátis"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obter Premium Grátis"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "免费获取Premium"
+            "value" : "免费获取会员"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "免費獲取Premium"
           }
         }
       }
@@ -365,16 +1415,82 @@
     "event_exchange_rule" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte gib unten den Einlösecode ein, den du per E-Mail erhalten hast. Bei Problemen kannst du uns jederzeit per E-Mail kontaktieren.\n\nNach erfolgreicher Einlösung würden wir uns freuen, wenn du uns eine positive Bewertung im App Store hinterlässt. Vielen Dank."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redeem rule"
+            "value" : "Please enter the redemption code received in your email below. If you encounter any issues, feel free to contact us via email.\n\nAfter successful redemption, we'd appreciate if you could leave us a positive review on the App Store. \n\nThank you very much."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, introduce el código de canje recibido en tu correo electrónico a continuación. Si encuentras algún problema, no dudes en contactarnos por correo electrónico.\n\nDespués de un canje exitoso, agradeceríamos que nos dejaras una reseña positiva en la App Store. Muchas gracias."
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, introduce el código de canje recibido en tu correo electrónico a continuación. Si encuentras algún problema, no dudes en contactarnos por correo electrónico.\n\nDespués de un canje exitoso, agradeceríamos que nos dejaras una reseña positiva en la App Store. Muchas gracias."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veuillez entrer le code d'échange reçu dans votre email ci-dessous. Si vous rencontrez des problèmes, n'hésitez pas à nous contacter par email.\n\nAprès un échange réussi, nous apprécierions que vous nous laissiez un avis positif sur l'App Store. Merci beaucoup."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メールで受け取った交換コードを以下に入力してください。問題がある場合は、メールでお問い合わせください。\n\n交換成功後、App Storeで好評価のレビューをいただければ幸いです。ありがとうございます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이메일로 받은 교환 코드를 아래에 입력해 주세요. 문제가 있으면 이메일로 문의해 주세요.\n\n성공적인 교환 후, App Store에 긍정적인 리뷰를 남겨주시면 감사하겠습니다. 대단히 감사합니다."
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sila masukkan kod penebusan yang diterima di e-mel anda di bawah. Jika anda menghadapi sebarang masalah, jangan ragu untuk menghubungi kami melalui e-mel.\n\nSelepas penebusan yang berjaya, kami akan menghargai jika anda memberi ulasan positif di App Store. Terima kasih banyak."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, insira o código de resgate recebido no seu e-mail abaixo. Se encontrar algum problema, não hesite em nos contatar por e-mail.\n\nApós um resgate bem-sucedido, agradeceríamos se você nos deixasse uma avaliação positiva na App Store. Muito obrigado."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, insira o código de resgate recebido no seu e-mail abaixo. Se encontrar algum problema, não hesite em nos contatar por e-mail.\n\nApós um resgate bem-sucedido, agradeceríamos se você nos deixasse uma avaliação positiva na App Store. Muito obrigado."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, insira o código de resgate recebido no seu e-mail abaixo. Se encontrar algum problema, não hesite em nos contatar por e-mail.\n\nApós um resgate bem-sucedido, agradeceríamos se você nos deixasse uma avaliação positiva na App Store. Muito obrigado."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请在下方输入邮箱收到的活动兑换码，如遇到任何问题，都可以发邮件咨询。\n\n兑换成功后，想求您在App Store给我们一个好评，非常感谢。"
+            "value" : "请在下方输入您邮箱收到的活动兑换码，如遇到任何问题，都可以发邮件咨询。\n\n兑换成功后，想求您在App Store给我们一个好评，非常感谢。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請在下方輸入您在電子郵件中收到的兌換碼。如果遇到任何問題，請隨時透過電子郵件與我們聯繫。\n\n成功兌換後，如果您能在App Store上留下正面評價，我們將不勝感激。\n\n非常感謝。"
           }
         }
       }
@@ -382,16 +1498,82 @@
     "event_exchange_title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium-Einlösung🎁"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redeem title"
+            "value" : "Premium Redemption🎁"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canje de Premium🎁"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canje de Premium🎁"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échange Premium🎁"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium交換🎁"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium 교환🎁"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penebusan Premium🎁"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgate Premium🎁"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgate Premium🎁"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgate Premium🎁"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "兑换活动码"
+            "value" : "会员兑换🎁"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium兌換🎁"
           }
         }
       }
@@ -399,10 +1581,70 @@
     "event_redeem_button_title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einlösen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Redeem"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canjear"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canjear"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échanger"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交換する"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "교환하기"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tebus"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgatar"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgatar"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgatar"
           }
         },
         "zh-Hans" : {
@@ -410,16 +1652,82 @@
             "state" : "translated",
             "value" : "兑换"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兌換"
+          }
         }
       }
     },
     "event_redeem_failed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Markierung der erfolgreichen Einlösung fehlgeschlagen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to mark as used: "
+            "value" : "Failed to mark redemption as successful"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al marcar el canje como exitoso"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al marcar el canje como exitoso"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors du marquage de l'échange comme réussi"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交換成功のマーキングエラー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "교환 성공 표시 오류"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ralat menandakan penebusan sebagai berjaya"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erro ao marcar o resgate como bem-sucedido"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erro ao marcar o resgate como bem-sucedido"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erro ao marcar o resgate como bem-sucedido"
           }
         },
         "zh-Hans" : {
@@ -427,16 +1735,82 @@
             "state" : "translated",
             "value" : "标记兑换成功失败"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "標記兌換成功時出錯"
+          }
         }
       }
     },
     "event_redeem_invalid_code" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ungültiger Einlösecode"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invalid Code."
+            "value" : "Invalid redemption code"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de canje inválido"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de canje inválido"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Code d'échange invalide"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効な交換コード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "유효하지 않은 교환 코드"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kod penebusan tidak sah"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de resgate inválido"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de resgate inválido"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de resgate inválido"
           }
         },
         "zh-Hans" : {
@@ -444,16 +1818,82 @@
             "state" : "translated",
             "value" : "兑换码无效"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無效的兌換碼"
+          }
         }
       }
     },
     "event_redeem_used" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einlösecode bereits verwendet"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "This code has already been used. "
+            "value" : "Redemption code already used"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de canje ya utilizado"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de canje ya utilizado"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Code d'échange déjà utilisé"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すでに使用されている交換コード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미 사용된 교환 코드"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kod penebusan telah digunakan"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de resgate já utilizado"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de resgate já utilizado"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código de resgate já utilizado"
           }
         },
         "zh-Hans" : {
@@ -461,19 +1901,91 @@
             "state" : "translated",
             "value" : "兑换码已使用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已使用的兌換碼"
+          }
         }
       }
     },
     "event_submit_button_title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Absenden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Submit"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar"
+          }
+        },
+        "es-419" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envoyer"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "送信"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보내기"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hantar"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar"
+          }
+        },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提交"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "提交"
@@ -487,79 +1999,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "德国"
+            "value" : "Erhalte TubePod Premium kostenlos!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Event"
+            "value" : "Get TubePod Premium for Free!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "西语"
+            "value" : "¡Obtén TubePod Premium Gratis!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "西语拉丁美洲"
+            "value" : "¡Obtén TubePod Premium Gratis!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "法语"
+            "value" : "Obtenez TubePod Premium gratuitement !"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日本"
+            "value" : "TubePod Premiumを無料でゲット！"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "韩语"
+            "value" : "TubePod Premium 무료로 받기!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "马来语"
+            "value" : "Dapatkan TubePod Premium Percuma!\n\n"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "葡萄牙"
+            "value" : "Obtenha o TubePod Premium Grátis!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "葡萄牙B"
+            "value" : "Obtenha o TubePod Premium Grátis!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "葡萄牙P"
+            "value" : "Obtenha o TubePod Premium Grátis!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "免费领取 TubePod 会员！🎁 "
+            "value" : "免费领取 TubePod 会员！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "繁体"
+            "value" : "免費獲取TubePod Premium！"
           }
         }
       }
