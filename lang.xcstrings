@@ -36,7 +36,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分享帖子（3 个月 - 终身）"
+            "value" : "分享帖子"
           }
         }
       }
@@ -323,7 +323,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在您常用的国际社交平台（如 TikTok、Instagram、Facebook、YouTube、X、Thread、Bluesky、Line）发布一条关于 TubePod的短视频或图片帖。\n\n文案中请提到：“在App Store下载 TubePod，免费听你喜欢的音乐，无广告看YouTube！”\n\n附上一张App Store截图或更多内容。\n\n发帖子成功后，复制帖子或您主页链接。\n\n在下方输入并提交链接。\n\n待我们审核通过后，将通过邮箱向您发送免费的Premium兑换码。\n\n请输入接受兑换码的邮箱\n\n享受免费的 TubePod Premium之旅吧！"
+            "value" : "在您常用的国际社交平台（如 TikTok、Instagram、Facebook、YouTube、X、Thread、Bluesky、Line）发布一条关于 TubePod的短视频或图片帖。\n\n文案中请提到：“在App Store下载 TubePod，免费听你喜欢的音乐，无广告看YouTube！”\n\n附上一张App Store截图或更多内容。\n\n发帖子成功后，复制帖子或您主页链接。\n\n在下方输入活动参与信息并提交。\n\n享受免费的 TubePod Premium之旅吧！"
           }
         }
       }
