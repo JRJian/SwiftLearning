@@ -173,67 +173,67 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teile einfach einen TubePod-Beitrag in sozialen Medien, um ein kostenloses TubePod Premium zu erhalten!"
+            "value" : "\nTeile einfach einen TubePod-Beitrag in sozialen Medien, um ein kostenloses TubePod Premium zu erhalten!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Just share a TubePod post on social media to get a free TubePod Premium!"
+            "value" : "\nJust share a TubePod post on social media to get a free TubePod Premium!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Simplemente comparte una publicación de TubePod en redes sociales para obtener TubePod Premium gratis!"
+            "value" : "\n¡Simplemente comparte una publicación de TubePod en redes sociales para obtener TubePod Premium gratis!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Simplemente comparte una publicación de TubePod en redes sociales para obtener TubePod Premium gratis!"
+            "value" : "\n¡Simplemente comparte una publicación de TubePod en redes sociales para obtener TubePod Premium gratis!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partagez simplement une publication TubePod sur les réseaux sociaux pour obtenir TubePod Premium gratuitement !"
+            "value" : "\nPartagez simplement une publication TubePod sur les réseaux sociaux pour obtenir TubePod Premium gratuitement !"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "TubePodの投稿をSNSでシェアするだけで、TubePod Premiumを無料でゲット！"
+            "value" : "\nTubePodの投稿をSNSでシェアするだけで、TubePod Premiumを無料でゲット！"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "소셜 미디어에서 TubePod 게시물을 공유하기만 하면 TubePod Premium을 무료로 받을 수 있습니다!"
+            "value" : "\n소셜 미디어에서 TubePod 게시물을 공유하기만 하면 TubePod Premium을 무료로 받을 수 있습니다!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kongsi siaran TubePod di media sosial untuk mendapatkan TubePod Premium percuma!"
+            "value" : "\nKongsi siaran TubePod di media sosial untuk mendapatkan TubePod Premium percuma!"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe simplesmente uma publicação do TubePod nas redes sociais para obter o TubePod Premium grátis!"
+            "value" : "\nCompartilhe simplesmente uma publicação do TubePod nas redes sociais para obter o TubePod Premium grátis!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe simplesmente uma publicação do TubePod nas redes sociais para obter o TubePod Premium grátis!"
+            "value" : "\nCompartilhe simplesmente uma publicação do TubePod nas redes sociais para obter o TubePod Premium grátis!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe simplesmente uma publicação do TubePod nas redes sociais para obter o TubePod Premium grátis!"
+            "value" : "\nCompartilhe simplesmente uma publicação do TubePod nas redes sociais para obter o TubePod Premium grátis!"
           }
         },
         "zh-Hans" : {
@@ -245,7 +245,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "只需在社交媒體上分享TubePod貼文，即可免費獲得TubePod Premium！"
+            "value" : "\n只需在社交媒體上分享TubePod貼文，即可免費獲得TubePod Premium！"
           }
         }
       }
@@ -837,79 +837,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "E-Mail zum Empfang des Einlösecodes"
+            "value" : "E-Mail-Adresse"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Email to receive redemption code"
+            "value" : "Email Address"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Correo electrónico para recibir el código de canje"
+            "value" : "Dirección de correo electrónico"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Correo electrónico para recibir el código de canje"
+            "value" : "Dirección de correo electrónico"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Email pour recevoir le code d'échange"
+            "value" : "Adresse e-mail"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "交換コードを受け取るメールアドレス"
+            "value" : "メールアドレス"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "교환 코드를 받을 이메일"
+            "value" : "이메일 주소"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "E-mel untuk menerima kod penebusan"
+            "value" : "Alamat E-mel"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "E-mail para receber o código de resgate"
+            "value" : "Endereço de e-mail"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "E-mail para receber o código de resgate"
+            "value" : "Endereço de e-mail"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "E-mail para receber o código de resgate"
+            "value" : "Endereço de e-mail"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "接收兑换码的邮箱"
+            "value" : "Email Address"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "接收兌換碼的電子郵件"
+            "value" : "Email Address"
           }
         }
       }
@@ -1335,67 +1335,67 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erhalte Premium kostenlos"
+            "value" : "Gratis Premium sichern"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Get Free Premium"
+            "value" : "Get Premium for Free"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtener Premium Gratis"
+            "value" : "Consigue Premium gratis"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtener Premium Gratis"
+            "value" : "Consigue Premium gratis"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenir Premium gratuitement"
+            "value" : "Obtenez Premium gratuit"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無料でPremiumを入手"
+            "value" : "プレミアムを無料でゲット"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "무료 Premium 받기"
+            "value" : "프리미엄 무료로 받기"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dapatkan Premium Percuma"
+            "value" : "Dapat Premium Percuma"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obter Premium Grátis"
+            "value" : "Obtenha Premium grátis"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obter Premium Grátis"
+            "value" : "Obtenha Premium grátis"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obter Premium Grátis"
+            "value" : "Obtenha Premium grátis"
           }
         },
         "zh-Hans" : {
@@ -1999,67 +1999,67 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erhalte TubePod Premium kostenlos!"
+            "value" : "Premium kostenlos erhalten!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Get TubePod Premium for Free!"
+            "value" : "Get Premium for Free!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Obtén TubePod Premium Gratis!"
+            "value" : "¡Consigue Premium gratis!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Obtén TubePod Premium Gratis!"
+            "value" : "¡Consigue Premium gratis!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenez TubePod Premium gratuitement !"
+            "value" : "Obtenez Premium gratuitement !"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "TubePod Premiumを無料でゲット！"
+            "value" : "プレミアムを無料でゲット！"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "TubePod Premium 무료로 받기!"
+            "value" : "프리미엄을 무료로 이용하세요!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dapatkan TubePod Premium Percuma!\n\n"
+            "value" : "Dapatkan Premium secara percuma!"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenha o TubePod Premium Grátis!"
+            "value" : "Obtenha o Premium gratuitamente!"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenha o TubePod Premium Grátis!"
+            "value" : "Obtenha o Premium gratuitamente!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenha o TubePod Premium Grátis!"
+            "value" : "Obtenha o Premium gratuitamente!"
           }
         },
         "zh-Hans" : {
