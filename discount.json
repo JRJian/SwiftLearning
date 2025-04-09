@@ -8,9 +8,9 @@
     "monthly_des": "1 month",
     "launchAlertEnabled": 1,
     "launchAlertMessage": "YouTube Search Feature Upgrade in Progress. We’re upgrading the YouTube search feature, so it’s temporarily unavailable. In the meantime, you can copy the video URL from the YouTube app and paste it into the TubePod search box as a workaround. The upgrade will be completed soon—please update to the latest version of the app when it’s ready.",
-    "launchAlertMaxCode": 70,
+    "launchAlertMaxCode": 100,
     "goodVersionMinCode": 100,
-    "freeProMinCode": 70,
+    "freeProMinCode": 100,
     "freeProExpiredMonth": 3,
     "ua": {
         "ipad": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"
