@@ -903,13 +903,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Email Address"
+            "value" : "电子邮箱地址"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Email Address"
+            "value" : "電子郵件地址"
           }
         }
       }
@@ -1003,13 +1003,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beitrags- / Profillink"
+            "value" : "Beitrags-/Profil-Link"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Post / Profile link"
+            "value" : "Post / Profile Link"
           }
         },
         "es" : {
@@ -1027,25 +1027,25 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lien de publication / profil"
+            "value" : "Lien de la publication / du profil"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "投稿/プロフィールのリンク"
+            "value" : "投稿 / プロフィールリンク"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "게시물/프로필 링크"
+            "value" : "게시물 / 프로필 링크"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pautan siaran / profil"
+            "value" : "Pautan Siaran / Profil"
           }
         },
         "pt" : {
@@ -1075,7 +1075,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貼文/個人資料連結"
+            "value" : "貼文 / 個人主頁連結"
           }
         }
       }
@@ -1086,79 +1086,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teile einen Beitrag auf Social-Media-Plattformen. Nach unserer Genehmigung erhältst du in etwa einer Woche ein kostenloses TubePod Premium zwischen 3 Monaten und lebenslang!"
+            "value" : "Teile deine Erfahrung auf Social Media. Nach Genehmigung erhältst du innerhalb etwa einer Woche ein kostenloses TubePod Premium – von 3 Monaten bis lebenslang!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Share a post on social media platforms. After we approve it, in about a week, you can get a free TubePod Premium ranging from 3 months to lifetime!"
+            "value" : "Share your experience on social media, and after approval, you'll receive a free TubePod Premium — from 3 months to a lifetime — within about a week!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comparte una publicación en plataformas de redes sociales. Después de que la aprobemos, en aproximadamente una semana, ¡puedes obtener TubePod Premium gratis con duración desde 3 meses hasta de por vida!"
+            "value" : "Comparte tu experiencia en redes sociales. Tras ser aprobado, recibirás un TubePod Premium gratuito — de 3 meses hasta de por vida — en aproximadamente una semana."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comparte una publicación en plataformas de redes sociales. Después de que la aprobemos, en aproximadamente una semana, ¡puedes obtener TubePod Premium gratis con duración desde 3 meses hasta de por vida!"
+            "value" : "Comparte tu experiencia en redes sociales. Tras ser aprobado, recibirás un TubePod Premium gratuito — de 3 meses hasta de por vida — en aproximadamente una semana."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partagez une publication sur les plateformes de réseaux sociaux. Après notre approbation, dans environ une semaine, vous pourrez obtenir TubePod Premium gratuitement pour une durée de 3 mois à vie !"
+            "value" : "Partagez votre expérience sur les réseaux sociaux. Une fois approuvée, vous recevrez un Premium TubePod gratuit — de 3 mois à vie — sous environ une semaine！"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "SNSプラットフォームで投稿をシェアしてください。承認後、約1週間で3ヶ月から永久までのTubePod Premiumを無料で入手できます！"
+            "value" : "ソーシャルメディアに体験をシェアし、承認されると、約1週間以内に3か月から生涯まで利用できる無料のTubePod Premiumがもらえます！"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "소셜 미디어 플랫폼에서 게시물을 공유하세요. 승인 후 약 1주일 내에 3개월에서 평생까지 무료 TubePod Premium을 받을 수 있습니다!"
+            "value" : "소셜 미디어에 경험을 공유하고, 승인되면 약 일주일 내에 3개월부터 평생까지 사용할 수 있는 무료 TubePod Premium을 받을 수 있습니다!"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kongsi siaran di platform media sosial. Selepas kami meluluskannya, dalam masa seminggu, anda boleh mendapatkan TubePod Premium percuma dengan tempoh dari 3 bulan hingga seumur hidup!"
+            "value" : "Kongsi pengalaman anda di media sosial. Setelah diluluskan, anda akan menerima TubePod Premium percuma — dari 3 bulan hingga seumur hidup — dalam masa kira-kira seminggu！"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe uma publicação nas plataformas de redes sociais. Após a nossa aprovação, em aproximadamente uma semana, você poderá obter o TubePod Premium grátis com duração de 3 meses até vitalício!"
+            "value" : "Compartilhe sua experiência nas redes sociais. Após a aprovação, você receberá um TubePod Premium gratuito — de 3 meses a vitalício — em cerca de uma semana！"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe uma publicação nas plataformas de redes sociais. Após a nossa aprovação, em aproximadamente uma semana, você poderá obter o TubePod Premium grátis com duração de 3 meses até vitalício!"
+            "value" : "Compartilhe sua experiência nas redes sociais. Após a aprovação, você receberá um TubePod Premium gratuito — de 3 meses a vitalício — em cerca de uma semana！"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartilhe uma publicação nas plataformas de redes sociais. Após a nossa aprovação, em aproximadamente uma semana, você poderá obter o TubePod Premium grátis com duração de 3 meses até vitalício!"
+            "value" : "Compartilhe sua experiência nas redes sociais. Após a aprovação, você receberá um TubePod Premium gratuito — de 3 meses a vitalício — em cerca de uma semana！"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在社交平台分享一条帖子，我们审核通过后，一周左右，即可免费领取3 个月至终身不等的 TubePod会员！"
+            "value" : "在社交媒体上分享你的体验，通过审核后，大约一周内你将获得免费TubePod Premium（有效期3个月至终身）！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在社交媒體平台上分享貼文。在我們批准後，大約一週內，您可以免費獲得TubePod Premium，期限從3個月到終身不等！"
+            "value" : "在社交媒體上分享你的體驗，通過審核後，大約一週內你將獲得免費TubePod Premium（有效期3個月至終身）！"
           }
         }
       }
@@ -1169,79 +1169,79 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veröffentliche ein kurzes Video oder Bild über TubePod auf deiner bevorzugten internationalen Social-Media-Plattform (wie TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nVerwende diesen Text: \"Lade TubePod aus dem App Store herunter, um deine Lieblingsmusik kostenlos zu hören und YouTube ohne Werbung anzusehen!\"\n\nFüge einen App Store-Screenshot oder zusätzliche Inhalte hinzu.\n\nNach erfolgreicher Veröffentlichung kopiere den Beitrags- oder deinen Profillink.\n\nGib deine Teilnahmeinformationen unten ein und sende sie ab.\n\nNach Genehmigung deines Beitrags senden wir dir innerhalb einer Woche einen Premium-Einlösecode per E-Mail."
+            "value" : "Veröffentliche ein kurzes Video (mindestens 10 Sekunden) oder mindestens 3 Originalbilder über TubePod auf einer internationalen Social-Media-Plattform (z.B. TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky oder Line).\n\nFüge diesen Text in deinen Beitrag ein:\"Lade TubePod aus dem App Store herunter, um deine Lieblingsmusik kostenlos zu hören und YouTube ohne Werbung zu genießen!\"\n\nDein Beitrag muss sowohl die Benutzeroberfläche von TubePod als auch einen Screenshot aus dem App Store klar zeigen.Nur eigene Inhalte werden akzeptiert — Kopien oder Beiträge minderer Qualität werden disqualifiziert.\n\nNach dem Posten kopiere den Link zu deinem Beitrag oder deinem Profil.\n\nGib unten deine Teilnahmeinformationen ein und sende sie ab:\n\nNach Genehmigung senden wir dir innerhalb etwa einer Woche einen Premium-Einlösecode per E-Mail!Nur originale, klare und hochwertige Beiträge werden genehmigt. Beiträge, die die Anforderungen nicht erfüllen, sind nicht belohnungsberechtigt。"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Post a short video or image about TubePod on your preferred international social media platform (such as TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nInclude this text: \"Download TubePod from the App Store to listen to your favorite music for free and watch YouTube without ads!\"\n\nAttach an App Store screenshot or additional content.\n\nAfter posting successfully, copy the post or your profile link.\n\nEnter your participation information below and submit.\n\nAfter your post is approved, we'll send a Premium redemption code to your email within about a week."
+            "value" : "Post a short video (at least 10 seconds) or at least 3 original images showcasing TubePod on your preferred international social media platform (such as TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky, or Line).\n\nInclude the following text in your post:\"Download TubePod from the App Store to listen to your favorite music for free and watch YouTube without ads!\"\n\nYour post must clearly show both the TubePod app interface and an App Store screenshot.Posts must be original — copying, reusing others' content, or submitting low-effort posts will be disqualified.\n\nAfter successfully posting, copy your post link or profile link.\n\nEnter your participation information below and submit:\n\nOnce your post is approved, we’ll send a Premium redemption code to your email within about a week Only original, clear, and high-quality posts will be approved. Submissions failing to meet the requirements will not be eligible for rewards."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publica un video corto o imagen sobre TubePod en tu plataforma de redes sociales internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nIncluye este texto: \"¡Descarga TubePod desde la App Store para escuchar tu música favorita gratis y ver YouTube sin anuncios!\"\n\nAdjunta una captura de pantalla de la App Store o contenido adicional.\n\nDespués de publicar exitosamente, copia la publicación o el enlace de tu perfil.\n\nIngresa tu información de participación a continuación y envíala.\n\nDespués de que tu publicación sea aprobada, te enviaremos un código de canje de Premium a tu correo electrónico en aproximadamente una semana."
+            "value" : "Publica un video corto (al menos 10 segundos) o al menos 3 imágenes originales mostrando TubePod en tu plataforma de redes sociales preferida (TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky o Line).\n\nIncluye el siguiente texto en tu publicación:\"Descarga TubePod desde la App Store para escuchar tu música favorita gratis y ver YouTube sin anuncios.\"\n\nTu publicación debe mostrar claramente tanto la interfaz de TubePod como una captura de pantalla de la App Store. Solo se aceptarán publicaciones originales — las copias o contenido de baja calidad serán descalificados.\n\nDespués de publicar, copia el enlace de la publicación o tu perfil.\n\nIntroduce tu información de participación a continuación y envíala:\n\nUna vez aprobado, recibirás un código Premium por correo electrónico en aproximadamente una semana. Solo se aprobarán publicaciones originales, claras y de alta calidad."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publica un video corto o imagen sobre TubePod en tu plataforma de redes sociales internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nIncluye este texto: \"¡Descarga TubePod desde la App Store para escuchar tu música favorita gratis y ver YouTube sin anuncios!\"\n\nAdjunta una captura de pantalla de la App Store o contenido adicional.\n\nDespués de publicar exitosamente, copia la publicación o el enlace de tu perfil.\n\nIngresa tu información de participación a continuación y envíala.\n\nDespués de que tu publicación sea aprobada, te enviaremos un código de canje de Premium a tu correo electrónico en aproximadamente una semana."
+            "value" : "Publica un video corto (al menos 10 segundos) o al menos 3 imágenes originales mostrando TubePod en tu plataforma de redes sociales preferida (TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky o Line).\n\nIncluye el siguiente texto en tu publicación:\"Descarga TubePod desde la App Store para escuchar tu música favorita gratis y ver YouTube sin anuncios.\"\n\nTu publicación debe mostrar claramente tanto la interfaz de TubePod como una captura de pantalla de la App Store. Solo se aceptarán publicaciones originales — las copias o contenido de baja calidad serán descalificados.\n\nDespués de publicar, copia el enlace de la publicación o tu perfil.\n\nIntroduce tu información de participación a continuación y envíala:\n\nUna vez aprobado, recibirás un código Premium por correo electrónico en aproximadamente una semana. Solo se aprobarán publicaciones originales, claras y de alta calidad."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publiez une courte vidéo ou une image sur TubePod sur votre plateforme de réseaux sociaux internationale préférée (comme TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nIncluez ce texte : \"Téléchargez TubePod depuis l'App Store pour écouter votre musique préférée gratuitement et regarder YouTube sans publicités !\"\n\nJoignez une capture d'écran de l'App Store ou du contenu supplémentaire.\n\nAprès avoir publié avec succès, copiez la publication ou le lien de votre profil.\n\nEntrez vos informations de participation ci-dessous et soumettez-les.\n\nAprès l'approbation de votre publication, nous vous enverrons un code d'échange Premium à votre email dans environ une semaine."
+            "value" : "Publiez une courte vidéo (au moins 10 secondes) ou au moins 3 images originales présentant TubePod sur votre plateforme de réseau social préférée (TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky ou Line).\n\nAjoutez ce texte à votre publication :\"Téléchargez TubePod depuis l'App Store pour écouter votre musique préférée gratuitement et regarder YouTube sans publicité !\"\n\nVotre publication doit clairement montrer l'interface de TubePod ainsi qu'une capture d'écran de l'App Store.Seuls les contenus originaux seront acceptés — toute copie ou contenu de mauvaise qualité sera disqualifié.\n\nAprès la publication, copiez le lien de votre publication ou de votre profil.\n\nSaisissez vos informations de participation ci-dessous et envoyez-les :\n\nAprès approbation, un code Premium sera envoyé à votre adresse e-mail sous environ une semaine.Seules les publications originales, claires et de haute qualité seront approuvées."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "お好きな国際SNSプラットフォーム（TikTok、Instagram、Facebook、YouTube、X、Thread、Bluesky、Lineなど）でTubePodに関する短い動画や画像を投稿してください。\n\nこのテキストを含めてください：「App StoreからTubePodをダウンロードして、お気に入りの音楽を無料で聴いたり、広告なしでYouTubeを視聴しよう！」\n\nApp Storeのスクリーンショットや追加コンテンツを添付してください。\n\n投稿に成功したら、投稿またはプロフィールのリンクをコピーしてください。\n\n以下に参加情報を入力して送信してください。\n\n投稿が承認されると、約1週間でPremiumの交換コードがメールで送信されます。"
+            "value" : "TikTok、Instagram、Facebook、YouTube、X、Threads、Bluesky、Lineなどの国際的なSNSに、TubePodを紹介する10秒以上の短い動画または3枚以上のオリジナル画像を投稿してください。\n\n投稿に次の文言を追加してください：\"App StoreからTubePodをダウンロードして、お気に入りの音楽を無料で聴き、広告なしでYouTubeを楽しもう！\"\n\n投稿にはTubePodアプリのインターフェースとApp Storeのスクリーンショットの両方を明確に表示する必要があります。コンテンツは必ずオリジナルでなければなりません — 他人のコンテンツのコピーや低品質な投稿は承認されません。\n\n投稿後、投稿リンクまたはプロフィールリンクをコピーしてください。\n\n以下に参加情報を入力して送信してください：\n\n投稿が承認されると、約1週間以内にプレミアム引き換えコードをメールでお送りします。オリジナルで、鮮明かつ高品質な投稿のみが承認されます。条件を満たさない投稿には報酬が提供されません。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "선호하는 국제 소셜 미디어 플랫폼(TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line 등)에서 TubePod에 관한 짧은 동영상이나 이미지를 게시하세요.\n\n다음 텍스트를 포함하세요: \"App Store에서 TubePod를 다운로드하여 좋아하는 음악을 무료로 듣고 광고 없이 YouTube를 시청하세요!\"\n\nApp Store 스크린샷이나 추가 콘텐츠를 첨부하세요.\n\n성공적으로 게시한 후, 게시물이나 프로필 링크를 복사하세요.\n\n아래에 참여 정보를 입력하고 제출하세요.\n\n게시물이 승인되면 약 1주일 내에 이메일로 Premium 교환 코드를 보내드립니다."
+            "value" : "TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky 또는 Line과 같은 국제 소셜 미디어 플랫폼에 TubePod을 소개하는 10초 이상 영상 또는 최소 3장의 원본 이미지를 게시하세요.\n\n게시물에 다음 문구를 포함하세요:\"App Store에서 TubePod를 다운로드하여 좋아하는 음악을 무료로 듣고 광고 없이 YouTube를 즐기세요!\"\n\n게시물에는 TubePod 앱 인터페이스와 App Store 스크린샷을 모두 명확하게 보여야 합니다.콘텐츠는 반드시 원본이어야 하며 — 타인의 콘텐츠를 복제하거나 품질이 낮은 게시물은 승인되지 않습니다.\n\n게시 후 게시물 링크 또는 프로필 링크를 복사하세요.\n\n아래에 참여 정보를 입력하고 제출하세요:\n\n게시물이 승인되면 약 일주일 내에 프리미엄 코드가 이메일로 발송됩니다.원본이며, 명확하고 고품질의 게시물만 승인됩니다. 요건을 충족하지 못하면 보상을 받을 수 없습니다。"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Siarkan video pendek atau imej tentang TubePod di platform media sosial antarabangsa pilihan anda (seperti TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nSertakan teks ini: \"Muat turun TubePod dari App Store untuk mendengar muzik kegemaran anda secara percuma dan menonton YouTube tanpa iklan!\"\n\nLampirkan tangkapan skrin App Store atau kandungan tambahan.\n\nSelepas berjaya menyiarkan, salin siaran atau pautan profil anda.\n\nMasukkan maklumat penyertaan anda di bawah dan hantarkannya.\n\nSelepas siaran anda diluluskan, kami akan menghantar kod penebusan Premium ke e-mel anda dalam masa seminggu."
+            "value" : "Muat naik video pendek (sekurang-kurangnya 10 saat) atau sekurang-kurangnya 3 gambar asli TubePod di platform media sosial antarabangsa pilihan anda (seperti TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky atau Line).\n\nSertakan teks berikut dalam siaran anda:\"Muat turun TubePod dari App Store untuk mendengar muzik kegemaran anda secara percuma dan menonton YouTube tanpa iklan!\"\n\nPastikan siaran anda menunjukkan dengan jelas antara muka TubePod serta tangkapan skrin dari App Store.Hanya kandungan asli akan diterima — salinan atau kandungan berkualiti rendah tidak akan diluluskan.\n\nSelepas menyiarkan, salin pautan siaran atau pautan profil anda.\n\nMasukkan maklumat penyertaan anda di bawah dan hantar:\n\nSetelah diluluskan, kod Premium akan dihantar ke e-mel anda dalam kira-kira seminggu. Hanya siaran yang asli, jelas dan berkualiti tinggi akan diluluskan."
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publique um vídeo curto ou imagem sobre o TubePod na sua plataforma de redes sociais internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nInclua este texto: \"Baixe o TubePod na App Store para ouvir sua música favorita gratuitamente e assistir ao YouTube sem anúncios!\"\n\nAnexe uma captura de tela da App Store ou conteúdo adicional.\n\nApós publicar com sucesso, copie a publicação ou o link do seu perfil.\n\nInsira suas informações de participação abaixo e envie-as.\n\nApós a aprovação da sua publicação, enviaremos um código de resgate Premium para seu e-mail em aproximadamente uma semana."
+            "value" : "Publique um vídeo curto (pelo menos 10 segundos) ou pelo menos 3 imagens originais mostrando o TubePod na sua plataforma de mídia social internacional preferida (TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky ou Line).\n\nInclua o seguinte texto na sua publicação:\"Baixe o TubePod da App Store para ouvir suas músicas favoritas gratuitamente e assistir YouTube sem anúncios!\"\n\nSua publicação deve mostrar claramente tanto a interface do TubePod quanto uma captura de tela da App Store.Apenas conteúdos originais serão aceitos — cópias ou publicações de baixa qualidade serão desclassificadas.\n\nApós a publicação, copie o link da publicação ou do perfil.\n\nInsira suas informações de participação abaixo e envie:\n\nApós a aprovação, enviaremos um código Premium para seu e-mail em cerca de uma semana.Apenas publicações originais, claras e de alta qualidade serão aprovadas.\n"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publique um vídeo curto ou imagem sobre o TubePod na sua plataforma de redes sociais internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nInclua este texto: \"Baixe o TubePod na App Store para ouvir sua música favorita gratuitamente e assistir ao YouTube sem anúncios!\"\n\nAnexe uma captura de tela da App Store ou conteúdo adicional.\n\nApós publicar com sucesso, copie a publicação ou o link do seu perfil.\n\nInsira suas informações de participação abaixo e envie-as.\n\nApós a aprovação da sua publicação, enviaremos um código de resgate Premium para seu e-mail em aproximadamente uma semana."
+            "value" : "Publique um vídeo curto (pelo menos 10 segundos) ou pelo menos 3 imagens originais mostrando o TubePod na sua plataforma de mídia social internacional preferida (TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky ou Line).\n\nInclua o seguinte texto na sua publicação:\"Baixe o TubePod da App Store para ouvir suas músicas favoritas gratuitamente e assistir YouTube sem anúncios!\"\n\nSua publicação deve mostrar claramente tanto a interface do TubePod quanto uma captura de tela da App Store.Apenas conteúdos originais serão aceitos — cópias ou publicações de baixa qualidade serão desclassificadas.\n\nApós a publicação, copie o link da publicação ou do perfil.\n\nInsira suas informações de participação abaixo e envie:\n\nApós a aprovação, enviaremos um código Premium para seu e-mail em cerca de uma semana. Apenas publicações originais, claras e de alta qualidade serão aprovadas.\n"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publique um vídeo curto ou imagem sobre o TubePod na sua plataforma de redes sociais internacional preferida (como TikTok, Instagram, Facebook, YouTube, X, Thread, Bluesky, Line).\n\nInclua este texto: \"Baixe o TubePod na App Store para ouvir sua música favorita gratuitamente e assistir ao YouTube sem anúncios!\"\n\nAnexe uma captura de tela da App Store ou conteúdo adicional.\n\nApós publicar com sucesso, copie a publicação ou o link do seu perfil.\n\nInsira suas informações de participação abaixo e envie-as.\n\nApós a aprovação da sua publicação, enviaremos um código de resgate Premium para seu e-mail em aproximadamente uma semana."
+            "value" : "Publique um vídeo curto (pelo menos 10 segundos) ou pelo menos 3 imagens originais mostrando o TubePod na sua plataforma de mídia social internacional preferida (TikTok, Instagram, Facebook, YouTube, X, Threads, Bluesky ou Line).\n\nInclua o seguinte texto na sua publicação:\"Baixe o TubePod da App Store para ouvir suas músicas favoritas gratuitamente e assistir YouTube sem anúncios!\"\n\nSua publicação deve mostrar claramente tanto a interface do TubePod quanto uma captura de tela da App Store.Apenas conteúdos originais serão aceitos — cópias ou publicações de baixa qualidade serão desclassificadas.\n\nApós a publicação, copie o link da publicação ou do perfil.\n\nInsira suas informações de participação abaixo e envie:\n\nApós a aprovação, enviaremos um código Premium para seu e-mail em cerca de uma semana. Apenas publicações originais, claras e de alta qualidade serão aprovadas.\n"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在您常用的国际社交平台（如 TikTok、Instagram、Facebook、YouTube、X、Thread、Bluesky、Line）发布一条关于 TubePod的短视频或图片帖。\n\n文案中请提到：“在App Store下载 TubePod，免费听你喜欢的音乐，无广告看YouTube！”\n\n附上一张App Store截图或更多内容。\n\n发布帖子成功后，复制帖子或您主页链接。\n\n在下方输入活动参与信息并提交。\n\n帖子审核通过后，一周左右我们会通过邮箱给您发送会员兑换码。"
+            "value" : "在你喜欢的国际社交平台（如TikTok、Instagram、Facebook、YouTube、X、Threads、Bluesky或Line）发布关于TubePod的短视频（至少10秒）或至少3张原创图片。\n\n在帖子中添加以下文字：\"从App Store下载TubePod，免费听你喜爱的音乐，畅享无广告的YouTube体验！\"\n\n帖子需清晰展示TubePod应用界面和App Store截图。内容必须为原创 —— 抄袭、使用他人内容或低质量内容将被取消资格。\n\n发布成功后，复制你的帖子链接或个人主页链接。\n\n填写下方信息并提交：\n\n帖子审核通过后，大约一周内我们会将Premium兑换码发送到你的邮箱！只有原创、清晰且高质量的内容才能通过审核。不符合要求的提交将无法获得奖励。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在您喜愛的國際社交媒體平台（如TikTok、Instagram、Facebook、YouTube、X、Thread、Bluesky、Line）上發布關於TubePod的短片或圖片。\n\n包含此文字：\"從App Store下載TubePod，免費聆聽您喜愛的音樂，無廣告觀看YouTube！\"\n\n附上App Store截圖或額外內容。\n\n成功發布後，複製您的貼文或個人資料連結。\n\n在下方輸入您的參與資訊並提交。\n\n在您的貼文獲得批准後，我們將在大約一週內將Premium兌換碼發送到您的電子郵件。"
+            "value" : "在你喜愛的國際社交平台（如TikTok、Instagram、Facebook、YouTube、X、Threads、Bluesky或Line）發布關於TubePod的短影片（至少10秒）或至少3張原創圖片。\n\n在貼文中添加以下文字：“從App Store下載TubePod，免費聆聽喜愛的音樂，暢享無廣告的YouTube體驗！”\n\n貼文需清晰展示TubePod應用介面和App Store截圖。內容必須為原創 —— 抄襲、使用他人內容或低品質內容將被取消資格。\n\n發布成功後，複製你的貼文連結或個人主頁連結。\n\n填寫下方資料並提交：\n\n貼文審核通過後，大約一週內我們會將Premium兌換碼發送到你的郵箱！只有原創、清晰且高品質的內容才能通過審核。不符合要求的提交將無法獲得獎勵。"
           }
         }
       }
@@ -1335,7 +1335,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gratis Premium sichern"
+            "value" : "Erhalte Premium kostenlos"
           }
         },
         "en" : {
@@ -1347,67 +1347,67 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Consigue Premium gratis"
+            "value" : "Obtén Premium Gratis"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Consigue Premium gratis"
+            "value" : "Obtén Premium Gratis"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenez Premium gratuit"
+            "value" : "Obtenez Premium gratuitement"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プレミアムを無料でゲット"
+            "value" : "無料でプレミアムをゲット"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "프리미엄 무료로 받기"
+            "value" : "프리미엄 무료 획득"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dapat Premium Percuma"
+            "value" : "Dapatkan Premium secara Percuma"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenha Premium grátis"
+            "value" : "Ganhe Premium de Graça"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenha Premium grátis"
+            "value" : "Ganhe Premium de Graça"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenha Premium grátis"
+            "value" : "Ganhe Premium de Graça"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "免费获取会员"
+            "value" : "免费获取Premium"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "免費獲取Premium"
+            "value" : "免費獲得Premium"
           }
         }
       }
