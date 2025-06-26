@@ -9,7 +9,7 @@
     "launchAlertEnabled": 1,
     "launchAlertMessage": "Update Available\nThere were some issues with YouTube search in the previous version. We’ve released an update to fix them. Please update the app to the latest version.",
     "launchAlertMaxCode": 87,
-    "goodVersionMinCode": 1000,
+    "goodVersionMinCode": 98,
     "freeProMinCode": 70,
     "eventEntryEnabeldQuery": "not in (98)",
     "freeProExpiredMonth": 3,
